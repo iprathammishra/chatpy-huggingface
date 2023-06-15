@@ -10,7 +10,9 @@ Designed a Python Chat Appication using Streamlit Library and Hugging Face's "qu
 
 * Install all the dependencies from *requirements.ipynb* file.
 * Clone the repository with the following command:
-> ` $ git clone git@github.com:heylightning/chatpy-huggingface.git `
+`
+$ git clone git@github.com:heylightning/chatpy-huggingface.git
+`
 * Then run the following command to fire streamlit:
 `
 $ streamlit run main.py
