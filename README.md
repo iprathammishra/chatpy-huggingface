@@ -18,7 +18,7 @@ $ git clone git@github.com:heylightning/chatpy-huggingface.git
 $ streamlit run main.py
 `
 
-LICENSE
+### LICENSE
 
 Copyright (c) 2023 Pratham Mishra
 
