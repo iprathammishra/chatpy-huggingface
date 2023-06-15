@@ -14,7 +14,4 @@ Newton argued that the movements of celestial bodies and the free fall of object
 The classical Greek philosophers, on the other hand, did not consider the celestial bodies to be affected by gravity, because the bodies were observed to follow perpetually repeating nondescending trajectories in the sky. 
 Thus, Aristotle considered that each heavenly body followed a particular “natural” motion, unaffected by external causes or agents. 
 Aristotle also believed that massive earthly objects possess a natural tendency to move toward Earth’s centre. 
-Those Aristotelian concepts prevailed for centuries along with two others: that a body moving at constant speed requires a continuous force acting on it and that force must be applied by contact rather than interaction at a distance. 
-These ideas were generally held until the 16th and early 17th centuries, thereby impeding an understanding of the true principles of motion and precluding the development of ideas about universal gravitation. 
-This impasse began to change with several scientific contributions to the problem of earthly and celestial motion, which in turn set the stage for Newton’s later gravitational theory.
 """
