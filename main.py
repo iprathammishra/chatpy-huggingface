@@ -27,8 +27,8 @@ def main():
 
         pdfTab.divider()
  
-        pdfContextQuestion = pdfTab.text_input("Ask a question❔", key=f'pdfCQ', placeholder='Ask me anything (as long as it is in your context 😉)')
-        if pdfTab.button('Compute', key='textBTN'):
+        pdfContextQuestion = pdfTab.text_input("Ask a question❔", key='pdfCQ', placeholder='Ask me anything (as long as it is in your context 😉)')
+        if pdfTab.button('Compute', key='pdfBTN'):
             question_answer = pipeline('question-answering', model='deepset/roberta-base-squad2')
             res = question_answer(
                 question = pdfContextQuestion,
@@ -36,7 +36,7 @@ def main():
             )
             pdfTab.write("Answer: " + res['answer'])
             pdfTab.write("Accuracy score: " + str(res['score']*100) + " %")
-        if pdfTab.button('Another Context', key='textTabAC'):       
+        if pdfTab.button('Another Context', key='pdfTabAC'):       
             pyautogui.hotkey('ctrl', 'r')
 
     # For textTab
