@@ -4,11 +4,11 @@
 
 Designed a Python Chat Appication using Streamlit Library and Hugging Face's "question-answering" pipeline function.
 
-*For other requirements head to **requirements.ipynb*** file.
+*For other requirements head to **requirements.ipynb** file.*
 
 ## Setup for **main.py**: -
 
-* Install all the dependencies from *requirements.ipynb* file.
+* Install all the dependencies from **requirements.ipynb** file.
 * Clone the repository with the following command:
 `
 $ git clone git@github.com:heylightning/chatpy-huggingface.git
