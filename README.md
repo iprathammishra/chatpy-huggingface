@@ -9,11 +9,11 @@ For other requirements head to **requirements.ipynb** file.
 ## Setup for **main.py**: -
 
 * Install all the dependencies from **requirements.ipynb** file.
-* Clone the repository with the following command:
+* Clone the repository with this command:
 `
 $ git clone git@github.com:heylightning/chatpy-huggingface.git
 `
-* Then run the following command to fire streamlit:
+* Then run this command to fire streamlit:
 `
 $ streamlit run main.py
 `
